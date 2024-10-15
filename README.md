@@ -9,6 +9,14 @@
 7. [Introducing Private APIs on AWS AppSync](https://aws.amazon.com/blogs/mobile/introducing-private-apis-on-aws-appsync/)
 8. [Aeron performance enables capital markets to move to the cloud on AWS](https://aws.amazon.com/blogs/industries/aeron-performance-enables-capital-markets-to-move-to-the-cloud-on-aws/)
 9. [Architecture Patterns for AWS AppSync Private APIs](https://aws.amazon.com/blogs/mobile/architecture-patterns-for-aws-appsync-private-apis/)
+10. [Migrating to AWS - The 5 Phase Migration Process](https://uk.insight.com/en_GB/content-and-resources/2019/articles/migrating-to-aws-the-5-phase-migration-process/)
+11. [Disaster Recovery in AWS](https://uk.insight.com/en_GB/content-and-resources/2019/articles/disaster-recovery-in-aws/)
+12. [Using Native AWS Services with VMware Cloud on AWS](https://uk.insight.com/en_GB/content-and-resources/2019/articles/using-native-aws-services-with-vmware-cloud-on-aws/)
+13. [Insight Data Protection Proposition for AWS](https://uk.insight.com/en_GB/content-and-resources/2019/articles/insight-data-protection-proposition-for-aws/)
+14. [Migrating to AWS – 6 R’s Migration Strategy](https://uk.insight.com/en_GB/content-and-resources/2019/articles/migrating-to-aws-6-r-migration-strategy/)
+15. [Scale On-Premise Backup and Archive Storage Using AWS Storage Gateway](https://uk.insight.com/en_GB/content-and-resources/2019/articles/scale-on-premise-backup-and-archive-storage/)
+16. [The 4 Major Use Cases of VMware Cloud on AWS](https://uk.insight.com/en_GB/content-and-resources/2019/articles/the-4-major-use-cases-of-vmware-cloud-on-aws/)
+17. [Insight AWS Well-Architected Review Proposition](https://uk.insight.com/en_GB/content-and-resources/2019/articles/insight-aws-well-architectected-review-proposition/)
 
 # Technical Talks
 
@@ -39,7 +47,7 @@
 3. [AWS Serverless Feedback App](https://github.com/aws-samples/aws-serverless-feedback-app)
 4. [VPC Network Access Analyzer Automation ](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation)
 5. [AWS Real User Monitoring (RUM) for Amplify Apps](https://github.com/aws-samples/aws-real-user-monitoring-amplifyapps)
-6. [Amazon API Gateway to AWS AppSync to Amazon DynamoDB](https://serverlessland.com/patterns/apigw-appsync-dynamodb-sam)
+6. [Serverless Pattern - Amazon API Gateway to AWS AppSync to Amazon DynamoDB](https://serverlessland.com/patterns/apigw-appsync-dynamodb-sam)
 
 # Workshops and Implementation Guides
 
