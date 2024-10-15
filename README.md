@@ -39,8 +39,9 @@
 3. [AWS Serverless Feedback App](https://github.com/aws-samples/aws-serverless-feedback-app)
 4. [VPC Network Access Analyzer Automation ](https://github.com/aws-samples/aws-vpc-network-access-analyzer-automation)
 5. [AWS Real User Monitoring (RUM) for Amplify Apps](https://github.com/aws-samples/aws-real-user-monitoring-amplifyapps)
+6. [Amazon API Gateway to AWS AppSync to Amazon DynamoDB](https://serverlessland.com/patterns/apigw-appsync-dynamodb-sam)
 
-# Workshops and customer guides
+# Workshops and Implementation Guides
 
 1. [AWS open source observability for monitoring Amazon ECS](https://catalog.workshops.aws/open-source-observability-for-monitoring-amazon-ecs/en-US)
 2. [Hands on with AWS ReInvent 2022 Announcements](https://studio.us-east-1.prod.workshops.aws/workshops/d9b88760-0df1-4b67-a349-192896dfbc51)
